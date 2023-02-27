@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'app_screens/login_page.dart';
-import 'app_screens/price.dart';
+import 'app_screens/adding_dorm.dart';
 import 'app_screens/detailpage.dart';
 import 'app_screens/images_slider.dart';
 import 'app_screens/signup_page.dart';
